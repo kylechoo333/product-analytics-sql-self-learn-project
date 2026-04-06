@@ -1,5 +1,4 @@
 # product-analytics-sql-self-learn-project
-# Product Analytics SQL Project
 SQL-based product analytics project analyzing user behavior, retention, and revenue (DAU, day-1 retention, channel performance)
 
 ## Key Analyses
